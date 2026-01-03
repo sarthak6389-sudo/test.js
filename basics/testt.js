@@ -1,1 +1,1 @@
-console.log("sss")
+console.log(3+3)
